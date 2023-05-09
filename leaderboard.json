@@ -1,0 +1,34 @@
+{
+    "version": "1.6.0",
+    "releaseDate": "2023-05-9T00:00:00.000Z",
+    "participants": [
+        {
+            "person": {
+                "name": "Bisrat Skillet",
+                "links": [
+                    "https://www.instagram.com/p/Cr1Di6XOiBe/"
+                ],
+                "points": 1
+            }
+        },
+        {
+            "person": {
+                "name": "John Doe",
+                "links": [
+                    ""
+                ],
+                "points": 0
+            }
+        },
+        {
+            "person": {
+                "name": "Tom Skillet",
+                "links": [
+                    "https://www.instagram.com/p/Cr1Di6XOiBe/",
+                    "https://www.instagram.com/p/CmhKZlqPgxr/"
+                ],
+                "points": 2
+            }
+        }
+    ]
+}
